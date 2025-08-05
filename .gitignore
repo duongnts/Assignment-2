@@ -1,0 +1,16 @@
+# Node modules
+node_modules/
+
+# Deno
+deno.lock
+deno_dir/
+.cache/
+__pycache__/
+
+# VSCode settings
+.vscode/
+*.code-workspace
+
+# OS
+.DS_Store
+Thumbs.db
